@@ -37,7 +37,6 @@ require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230518184743-7afd39499903
 	github.com/beevik/etree v1.2.0
 	github.com/drone/go-scm v1.29.1
-	github.com/goccy/go-yaml v1.11.0
 	github.com/google/go-containerregistry v0.15.2
 	github.com/goware/urlx v0.3.2
 	github.com/invopop/jsonschema v0.7.0
@@ -68,7 +67,6 @@ require (
 	github.com/vbatts/tar-split v0.11.3 // indirect
 	go.opentelemetry.io/otel v1.14.0 // indirect
 	go.opentelemetry.io/otel/trace v1.14.0 // indirect
-	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 )
 
 require (
